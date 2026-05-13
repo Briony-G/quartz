@@ -6,6 +6,9 @@ longform:
   sceneFolder: /
   scenes: []
   ignoredFiles: []
+title: Index
+draft:
+tags:
 ---
  [[Sessions]] -> overview of the sessions, if you click on the highlighted session number, you will be taken to the full notes
 
