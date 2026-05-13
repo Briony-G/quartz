@@ -31,23 +31,4 @@ Pendayria is a world shaped by old powers, ancient stone and the tension between
 USE IMGUR PLUGIN TO MAKE MAP SEARCHEABLE
 
 
-
-```leaflet
-id: leaflet-map
-image: [[Pendayria_map.png]]
-height: 700px
-lat: 50
-long: 50
-minZoom: 1
-maxZoom: 10
-defaultZoom: 5.5
-unit: meters
-scale: 1
-marker: default, 39.983334, -82.983330, [[Note]]
-darkMode: false
-```
-
-
-![[Pendayria_borders.png|516]]
-
-![[Pendayria_map.png]]
+[[Pendayria map]] 
